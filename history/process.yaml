@@ -1,0 +1,6 @@
+data_location: s3://ooi-data/RS01SLBS-MJ01A-06-PRESTA101-streamed-prest_real_time
+data_stream: RS01SLBS-MJ01A-06-PRESTA101-streamed-prest_real_time
+end_date: '2020-12-21T09:40:10.968Z'
+last_updated: '2021-03-04T19:15:07.283005Z'
+start_date: '2014-09-13T00:00:01.000Z'
+status: pending
